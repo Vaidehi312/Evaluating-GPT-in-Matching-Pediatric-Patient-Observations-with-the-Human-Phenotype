@@ -2,7 +2,7 @@
 
 ### Install OpenAI API
 
-First, let's install the OpenAI API
+#First, let's install the OpenAI API
 """
 
 !pip install --upgrade openai
